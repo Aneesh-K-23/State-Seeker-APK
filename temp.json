@@ -1,0 +1,14 @@
+[
+  {
+    "stateName": "Texas",
+    "capital": "Austin"
+  },
+  {
+    "stateName": "California",
+    "capital": "Sacramento"
+  },
+  {
+    "stateName": "New York",
+    "capital": "New York City"
+  }
+]
